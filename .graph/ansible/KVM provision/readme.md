@@ -1,11 +1,12 @@
 # Guide:
+## Top!
 - https://www.redhat.com/sysadmin/build-VM-fast-ansible
 Template: kvm_provision
 ```
 mkdir -p kvmlab/roles && cd kvmlab/roles
 ansible-galaxy role init kvm_provision
 ```
-
+## all
 - https://blog.christophersmart.com/2020/03/03/using-ansible-to-define-and-manage-kvm-guests-and-networks-with-yaml-inventories/
 
 # doc:
